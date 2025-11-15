@@ -1,0 +1,201 @@
+Order_ID,Date,Channel,Product,Category,Units_Sold,Revenue,Discount,Coupon_Code,Customer_ID,Region,Device
+O1000,01-07-2024,Amazon,Satin Sunscreen,Serum,1,2097,0,TRIAL10,C15,Delhi,Desktop
+O1001,02-07-2024,Nykaa,Plumped Serum,Toner,2,1346,200,FESTIVE,C51,Bangalore,Mobile
+O1002,03-07-2024,Website,Satin Sunscreen,Kit,4,931,100,TRIAL10,C61,Pune,Desktop
+O1003,04-07-2024,Website,Glow Toner,Sunscreen,4,1791,0,NEW20,C63,Pune,Desktop
+O1004,05-07-2024,Amazon,Daily Glow Kit,Kit,2,1487,200,NONE,C42,Mumbai,Mobile
+O1005,06-07-2024,Amazon,Hydra Boost,Serum,3,1863,0,NONE,C77,Mumbai,Mobile
+O1006,07-07-2024,Website,Daily Glow Kit,Toner,3,2383,200,NEW20,C29,Hyderabad,Mobile
+O1007,08-07-2024,Nykaa,Plumped Serum,Toner,2,857,100,TRIAL10,C4,Mumbai,Desktop
+O1008,09-07-2024,Nykaa,Plumped Serum,Sunscreen,3,2003,200,NONE,C73,Mumbai,Mobile
+O1009,10-07-2024,Nykaa,Plumped Serum,Moisturizer,4,2316,300,NONE,C36,Pune,Desktop
+O1010,11-07-2024,Website,Plumped Serum,Toner,2,742,300,FESTIVE,C10,Delhi,Mobile
+O1011,12-07-2024,Nykaa,Satin Sunscreen,Serum,3,2100,0,TRIAL10,C32,Bangalore,Mobile
+O1012,13-07-2024,Nykaa,Glow Toner,Kit,4,2426,300,FESTIVE,C28,Chennai,Mobile
+O1013,14-07-2024,Website,Plumped Serum,Moisturizer,3,957,200,FESTIVE,C8,Pune,Mobile
+O1014,15-07-2024,Nykaa,Plumped Serum,Toner,4,1769,300,NONE,C30,Chennai,Mobile
+O1015,16-07-2024,Website,Plumped Serum,Kit,2,2084,200,NONE,C48,Bangalore,Mobile
+O1016,17-07-2024,Amazon,Glow Toner,Toner,4,750,100,NEW20,C3,Mumbai,Mobile
+O1017,18-07-2024,Nykaa,Glow Toner,Moisturizer,1,1451,0,FESTIVE,C33,Pune,Mobile
+O1018,19-07-2024,Nykaa,Daily Glow Kit,Kit,4,993,100,NONE,C12,Delhi,Mobile
+O1019,20-07-2024,Website,Daily Glow Kit,Moisturizer,2,2322,100,FESTIVE,C26,Bangalore,Mobile
+O1020,21-07-2024,Website,Plumped Serum,Toner,1,1289,100,TRIAL10,C2,Delhi,Desktop
+O1021,22-07-2024,Nykaa,Daily Glow Kit,Toner,2,1696,0,NEW20,C27,Hyderabad,Mobile
+O1022,23-07-2024,Amazon,Hydra Boost,Moisturizer,3,2459,100,NONE,C78,Hyderabad,Desktop
+O1023,24-07-2024,Website,Plumped Serum,Sunscreen,2,1327,100,NONE,C23,Hyderabad,Mobile
+O1024,25-07-2024,Website,Hydra Boost,Toner,3,2150,0,TRIAL10,C9,Chennai,Desktop
+O1025,26-07-2024,Website,Satin Sunscreen,Toner,2,1629,0,NEW20,C2,Delhi,Desktop
+O1026,27-07-2024,Nykaa,Daily Glow Kit,Serum,2,1110,100,FESTIVE,C52,Bangalore,Desktop
+O1027,28-07-2024,Nykaa,Plumped Serum,Sunscreen,1,2442,200,FESTIVE,C32,Pune,Mobile
+O1028,29-07-2024,Website,Hydra Boost,Kit,4,1734,200,NEW20,C34,Pune,Mobile
+O1029,30-07-2024,Website,Satin Sunscreen,Toner,4,1545,200,TRIAL10,C30,Chennai,Mobile
+O1030,31-07-2024,Website,Satin Sunscreen,Serum,3,773,100,NEW20,C1,Hyderabad,Mobile
+O1031,01-08-2024,Website,Plumped Serum,Serum,2,837,300,TRIAL10,C2,Chennai,Desktop
+O1032,02-08-2024,Nykaa,Plumped Serum,Serum,1,1414,0,FESTIVE,C57,Pune,Mobile
+O1033,03-08-2024,Amazon,Plumped Serum,Moisturizer,4,1178,100,NONE,C61,Delhi,Desktop
+O1034,04-08-2024,Nykaa,Hydra Boost,Serum,4,2440,0,FESTIVE,C64,Bangalore,Mobile
+O1035,05-08-2024,Amazon,Daily Glow Kit,Sunscreen,1,779,100,TRIAL10,C52,Bangalore,Desktop
+O1036,06-08-2024,Amazon,Plumped Serum,Kit,1,1548,200,TRIAL10,C35,Delhi,Mobile
+O1037,07-08-2024,Nykaa,Daily Glow Kit,Kit,1,1774,300,NEW20,C64,Mumbai,Desktop
+O1038,08-08-2024,Amazon,Satin Sunscreen,Serum,2,944,200,NONE,C12,Bangalore,Desktop
+O1039,09-08-2024,Nykaa,Satin Sunscreen,Serum,1,1431,0,FESTIVE,C38,Hyderabad,Mobile
+O1040,10-08-2024,Amazon,Plumped Serum,Moisturizer,4,745,0,TRIAL10,C15,Hyderabad,Mobile
+O1041,11-08-2024,Nykaa,Glow Toner,Sunscreen,3,2117,100,FESTIVE,C42,Mumbai,Desktop
+O1042,12-08-2024,Amazon,Daily Glow Kit,Serum,2,2176,100,TRIAL10,C49,Chennai,Desktop
+O1043,13-08-2024,Nykaa,Glow Toner,Sunscreen,2,1691,0,NEW20,C7,Mumbai,Mobile
+O1044,14-08-2024,Nykaa,Hydra Boost,Kit,3,1534,0,NEW20,C19,Hyderabad,Mobile
+O1045,15-08-2024,Website,Glow Toner,Serum,2,1345,100,TRIAL10,C8,Chennai,Desktop
+O1046,16-08-2024,Nykaa,Plumped Serum,Toner,4,1421,300,TRIAL10,C70,Mumbai,Mobile
+O1047,17-08-2024,Website,Plumped Serum,Toner,2,1957,100,TRIAL10,C68,Chennai,Mobile
+O1048,18-08-2024,Amazon,Hydra Boost,Kit,4,1064,200,NEW20,C11,Pune,Mobile
+O1049,19-08-2024,Nykaa,Daily Glow Kit,Moisturizer,1,1707,300,FESTIVE,C76,Mumbai,Mobile
+O1050,20-08-2024,Website,Glow Toner,Serum,4,2334,0,TRIAL10,C35,Mumbai,Mobile
+O1051,21-08-2024,Website,Glow Toner,Moisturizer,3,2447,300,NEW20,C6,Hyderabad,Desktop
+O1052,22-08-2024,Nykaa,Daily Glow Kit,Moisturizer,4,931,0,NEW20,C48,Pune,Mobile
+O1053,23-08-2024,Nykaa,Daily Glow Kit,Toner,4,1061,300,TRIAL10,C49,Mumbai,Desktop
+O1054,24-08-2024,Amazon,Glow Toner,Toner,1,1010,200,NONE,C11,Hyderabad,Desktop
+O1055,25-08-2024,Amazon,Satin Sunscreen,Kit,1,747,0,NEW20,C47,Hyderabad,Mobile
+O1056,26-08-2024,Website,Plumped Serum,Toner,4,2248,0,FESTIVE,C4,Pune,Desktop
+O1057,27-08-2024,Nykaa,Daily Glow Kit,Toner,4,970,300,FESTIVE,C76,Pune,Desktop
+O1058,28-08-2024,Website,Glow Toner,Sunscreen,2,1389,200,NONE,C2,Hyderabad,Mobile
+O1059,29-08-2024,Nykaa,Daily Glow Kit,Sunscreen,1,1115,100,NONE,C74,Delhi,Desktop
+O1060,30-08-2024,Website,Hydra Boost,Serum,4,719,100,TRIAL10,C36,Bangalore,Mobile
+O1061,31-08-2024,Nykaa,Plumped Serum,Sunscreen,1,1413,300,NONE,C73,Chennai,Mobile
+O1062,01-09-2024,Nykaa,Satin Sunscreen,Serum,3,1959,100,NONE,C61,Delhi,Mobile
+O1063,02-09-2024,Website,Daily Glow Kit,Serum,1,738,200,NONE,C42,Pune,Mobile
+O1064,03-09-2024,Amazon,Satin Sunscreen,Serum,4,1592,200,FESTIVE,C30,Hyderabad,Mobile
+O1065,04-09-2024,Amazon,Plumped Serum,Sunscreen,4,1675,0,NEW20,C76,Pune,Mobile
+O1066,05-09-2024,Amazon,Satin Sunscreen,Toner,2,888,100,NONE,C52,Bangalore,Desktop
+O1067,06-09-2024,Website,Glow Toner,Moisturizer,3,939,200,FESTIVE,C45,Chennai,Desktop
+O1068,07-09-2024,Amazon,Glow Toner,Serum,4,1151,200,FESTIVE,C59,Bangalore,Desktop
+O1069,08-09-2024,Website,Hydra Boost,Sunscreen,3,1022,0,FESTIVE,C9,Chennai,Desktop
+O1070,09-09-2024,Nykaa,Hydra Boost,Serum,4,911,100,NEW20,C65,Bangalore,Desktop
+O1071,10-09-2024,Amazon,Satin Sunscreen,Toner,3,720,100,TRIAL10,C32,Hyderabad,Desktop
+O1072,11-09-2024,Website,Hydra Boost,Kit,4,2022,0,NONE,C69,Mumbai,Desktop
+O1073,12-09-2024,Nykaa,Glow Toner,Kit,4,1419,200,NEW20,C60,Hyderabad,Desktop
+O1074,13-09-2024,Nykaa,Plumped Serum,Moisturizer,3,2305,200,FESTIVE,C45,Hyderabad,Mobile
+O1075,14-09-2024,Website,Plumped Serum,Toner,4,1671,300,FESTIVE,C28,Chennai,Desktop
+O1076,15-09-2024,Amazon,Glow Toner,Toner,3,1889,100,FESTIVE,C19,Mumbai,Mobile
+O1077,16-09-2024,Amazon,Glow Toner,Sunscreen,1,865,100,NONE,C4,Delhi,Desktop
+O1078,17-09-2024,Amazon,Hydra Boost,Moisturizer,2,2047,0,TRIAL10,C27,Hyderabad,Desktop
+O1079,18-09-2024,Amazon,Plumped Serum,Kit,1,1716,100,FESTIVE,C27,Pune,Mobile
+O1080,19-09-2024,Website,Glow Toner,Toner,4,1334,0,FESTIVE,C47,Delhi,Desktop
+O1081,20-09-2024,Nykaa,Satin Sunscreen,Toner,2,1831,200,TRIAL10,C34,Mumbai,Desktop
+O1082,21-09-2024,Nykaa,Hydra Boost,Serum,1,2136,300,NONE,C51,Bangalore,Mobile
+O1083,22-09-2024,Nykaa,Daily Glow Kit,Kit,1,1806,100,NEW20,C21,Chennai,Mobile
+O1084,23-09-2024,Nykaa,Satin Sunscreen,Serum,1,759,300,NONE,C69,Hyderabad,Desktop
+O1085,24-09-2024,Nykaa,Satin Sunscreen,Sunscreen,3,2154,100,TRIAL10,C63,Chennai,Mobile
+O1086,25-09-2024,Amazon,Glow Toner,Kit,1,1051,200,FESTIVE,C58,Bangalore,Mobile
+O1087,26-09-2024,Website,Hydra Boost,Serum,4,1184,200,FESTIVE,C32,Bangalore,Mobile
+O1088,27-09-2024,Website,Satin Sunscreen,Sunscreen,2,986,300,TRIAL10,C42,Hyderabad,Mobile
+O1089,28-09-2024,Amazon,Plumped Serum,Serum,2,1492,200,TRIAL10,C7,Delhi,Mobile
+O1090,29-09-2024,Nykaa,Glow Toner,Serum,1,2223,0,FESTIVE,C54,Bangalore,Mobile
+O1091,30-09-2024,Amazon,Satin Sunscreen,Toner,2,1618,100,TRIAL10,C12,Pune,Mobile
+O1092,01-10-2024,Nykaa,Daily Glow Kit,Kit,2,977,300,FESTIVE,C30,Pune,Mobile
+O1093,02-10-2024,Amazon,Plumped Serum,Moisturizer,2,1905,100,NONE,C38,Pune,Mobile
+O1094,03-10-2024,Nykaa,Plumped Serum,Kit,2,1747,0,NEW20,C10,Delhi,Mobile
+O1095,04-10-2024,Amazon,Satin Sunscreen,Toner,2,1914,0,TRIAL10,C58,Chennai,Desktop
+O1096,05-10-2024,Amazon,Hydra Boost,Moisturizer,4,1749,200,NEW20,C35,Hyderabad,Mobile
+O1097,06-10-2024,Nykaa,Satin Sunscreen,Serum,3,1137,0,NEW20,C54,Pune,Desktop
+O1098,07-10-2024,Nykaa,Daily Glow Kit,Kit,3,1550,200,TRIAL10,C36,Delhi,Mobile
+O1099,08-10-2024,Amazon,Plumped Serum,Toner,2,1611,300,TRIAL10,C36,Delhi,Mobile
+O1100,09-10-2024,Amazon,Daily Glow Kit,Sunscreen,3,2378,0,NONE,C16,Chennai,Mobile
+O1101,10-10-2024,Amazon,Hydra Boost,Serum,3,1386,300,TRIAL10,C55,Delhi,Desktop
+O1102,11-10-2024,Amazon,Glow Toner,Toner,2,2271,100,TRIAL10,C8,Chennai,Mobile
+O1103,12-10-2024,Amazon,Daily Glow Kit,Moisturizer,4,831,0,FESTIVE,C50,Mumbai,Mobile
+O1104,13-10-2024,Nykaa,Daily Glow Kit,Toner,4,2082,100,NEW20,C21,Delhi,Mobile
+O1105,14-10-2024,Website,Glow Toner,Sunscreen,1,1886,0,FESTIVE,C28,Pune,Mobile
+O1106,15-10-2024,Amazon,Plumped Serum,Toner,3,1737,200,FESTIVE,C24,Delhi,Mobile
+O1107,16-10-2024,Amazon,Glow Toner,Sunscreen,1,1684,0,NONE,C10,Bangalore,Mobile
+O1108,17-10-2024,Amazon,Glow Toner,Kit,2,1277,0,TRIAL10,C27,Hyderabad,Desktop
+O1109,18-10-2024,Website,Daily Glow Kit,Sunscreen,4,1096,200,TRIAL10,C58,Hyderabad,Mobile
+O1110,19-10-2024,Amazon,Daily Glow Kit,Sunscreen,3,2211,100,NONE,C77,Bangalore,Mobile
+O1111,20-10-2024,Amazon,Hydra Boost,Serum,2,1838,100,NONE,C53,Delhi,Mobile
+O1112,21-10-2024,Nykaa,Daily Glow Kit,Toner,2,2023,300,FESTIVE,C27,Bangalore,Desktop
+O1113,22-10-2024,Website,Plumped Serum,Moisturizer,4,2075,0,TRIAL10,C33,Hyderabad,Mobile
+O1114,23-10-2024,Website,Hydra Boost,Moisturizer,4,832,200,FESTIVE,C75,Bangalore,Mobile
+O1115,24-10-2024,Nykaa,Plumped Serum,Sunscreen,3,2203,100,NONE,C76,Delhi,Mobile
+O1116,25-10-2024,Amazon,Glow Toner,Serum,4,1075,300,TRIAL10,C26,Delhi,Mobile
+O1117,26-10-2024,Nykaa,Daily Glow Kit,Serum,1,2276,100,TRIAL10,C23,Hyderabad,Mobile
+O1118,27-10-2024,Nykaa,Plumped Serum,Moisturizer,1,1235,100,NEW20,C49,Mumbai,Mobile
+O1119,28-10-2024,Website,Daily Glow Kit,Toner,2,1305,300,FESTIVE,C32,Mumbai,Desktop
+O1120,29-10-2024,Website,Plumped Serum,Serum,3,2013,100,NEW20,C27,Bangalore,Desktop
+O1121,30-10-2024,Nykaa,Plumped Serum,Toner,2,2402,0,FESTIVE,C39,Hyderabad,Desktop
+O1122,31-10-2024,Nykaa,Satin Sunscreen,Toner,4,2217,100,FESTIVE,C29,Chennai,Mobile
+O1123,01-11-2024,Nykaa,Hydra Boost,Serum,2,2032,300,TRIAL10,C6,Pune,Mobile
+O1124,02-11-2024,Amazon,Satin Sunscreen,Moisturizer,3,2023,100,TRIAL10,C11,Hyderabad,Desktop
+O1125,03-11-2024,Website,Hydra Boost,Sunscreen,1,2116,200,NEW20,C39,Hyderabad,Desktop
+O1126,04-11-2024,Nykaa,Plumped Serum,Toner,4,1873,100,NONE,C72,Chennai,Desktop
+O1127,05-11-2024,Nykaa,Satin Sunscreen,Serum,2,1636,100,NONE,C8,Hyderabad,Desktop
+O1128,06-11-2024,Amazon,Plumped Serum,Sunscreen,4,1187,0,NONE,C50,Hyderabad,Desktop
+O1129,07-11-2024,Nykaa,Glow Toner,Moisturizer,3,1419,200,NEW20,C17,Delhi,Desktop
+O1130,08-11-2024,Amazon,Satin Sunscreen,Sunscreen,4,717,300,NEW20,C35,Hyderabad,Mobile
+O1131,09-11-2024,Amazon,Plumped Serum,Serum,3,1824,0,TRIAL10,C66,Chennai,Mobile
+O1132,10-11-2024,Website,Satin Sunscreen,Kit,3,2341,0,TRIAL10,C37,Bangalore,Mobile
+O1133,11-11-2024,Website,Hydra Boost,Moisturizer,1,2269,100,FESTIVE,C13,Mumbai,Mobile
+O1134,12-11-2024,Nykaa,Plumped Serum,Kit,3,1097,300,FESTIVE,C19,Chennai,Mobile
+O1135,13-11-2024,Nykaa,Plumped Serum,Toner,3,2329,200,FESTIVE,C60,Hyderabad,Mobile
+O1136,14-11-2024,Nykaa,Hydra Boost,Serum,2,2013,300,NONE,C9,Bangalore,Desktop
+O1137,15-11-2024,Nykaa,Daily Glow Kit,Sunscreen,3,1367,0,FESTIVE,C41,Chennai,Mobile
+O1138,16-11-2024,Amazon,Satin Sunscreen,Kit,3,2343,0,NONE,C14,Hyderabad,Desktop
+O1139,17-11-2024,Website,Satin Sunscreen,Serum,3,1866,100,NONE,C1,Mumbai,Mobile
+O1140,18-11-2024,Nykaa,Daily Glow Kit,Toner,2,1415,100,NEW20,C51,Delhi,Mobile
+O1141,19-11-2024,Amazon,Plumped Serum,Sunscreen,3,2108,200,NONE,C17,Hyderabad,Desktop
+O1142,20-11-2024,Website,Satin Sunscreen,Sunscreen,1,2278,0,FESTIVE,C41,Pune,Desktop
+O1143,21-11-2024,Website,Plumped Serum,Serum,2,1982,100,TRIAL10,C50,Mumbai,Mobile
+O1144,22-11-2024,Amazon,Satin Sunscreen,Sunscreen,2,1743,300,TRIAL10,C67,Mumbai,Desktop
+O1145,23-11-2024,Amazon,Glow Toner,Kit,1,1533,300,FESTIVE,C67,Hyderabad,Mobile
+O1146,24-11-2024,Amazon,Hydra Boost,Sunscreen,3,1779,200,TRIAL10,C72,Bangalore,Desktop
+O1147,25-11-2024,Amazon,Hydra Boost,Toner,3,849,100,FESTIVE,C55,Bangalore,Mobile
+O1148,26-11-2024,Nykaa,Daily Glow Kit,Moisturizer,1,1250,200,NONE,C12,Chennai,Mobile
+O1149,27-11-2024,Website,Glow Toner,Sunscreen,3,716,300,NONE,C22,Pune,Desktop
+O1150,28-11-2024,Nykaa,Daily Glow Kit,Toner,3,2339,300,FESTIVE,C15,Hyderabad,Mobile
+O1151,29-11-2024,Website,Hydra Boost,Moisturizer,1,817,300,NONE,C8,Pune,Desktop
+O1152,30-11-2024,Nykaa,Satin Sunscreen,Kit,2,1728,100,TRIAL10,C42,Pune,Desktop
+O1153,01-12-2024,Nykaa,Glow Toner,Moisturizer,3,2413,300,TRIAL10,C39,Mumbai,Mobile
+O1154,02-12-2024,Website,Plumped Serum,Kit,3,1387,300,FESTIVE,C12,Delhi,Mobile
+O1155,03-12-2024,Website,Glow Toner,Moisturizer,2,1443,0,NONE,C73,Pune,Mobile
+O1156,04-12-2024,Amazon,Glow Toner,Serum,2,2000,0,NONE,C78,Chennai,Mobile
+O1157,05-12-2024,Nykaa,Plumped Serum,Moisturizer,3,1930,0,FESTIVE,C44,Pune,Mobile
+O1158,06-12-2024,Website,Daily Glow Kit,Moisturizer,2,855,200,NONE,C10,Mumbai,Desktop
+O1159,07-12-2024,Amazon,Plumped Serum,Toner,2,1398,200,NEW20,C62,Pune,Mobile
+O1160,08-12-2024,Nykaa,Plumped Serum,Toner,3,2142,0,NEW20,C45,Bangalore,Desktop
+O1161,09-12-2024,Website,Glow Toner,Sunscreen,2,2238,200,NEW20,C52,Chennai,Desktop
+O1162,10-12-2024,Website,Hydra Boost,Serum,3,1211,100,FESTIVE,C39,Mumbai,Mobile
+O1163,11-12-2024,Amazon,Daily Glow Kit,Moisturizer,1,2207,200,NEW20,C45,Bangalore,Desktop
+O1164,12-12-2024,Website,Plumped Serum,Sunscreen,1,1047,100,NEW20,C66,Chennai,Mobile
+O1165,13-12-2024,Amazon,Glow Toner,Toner,3,1852,100,FESTIVE,C16,Bangalore,Desktop
+O1166,14-12-2024,Website,Satin Sunscreen,Serum,3,1995,0,NEW20,C74,Bangalore,Mobile
+O1167,15-12-2024,Nykaa,Daily Glow Kit,Serum,1,1661,100,TRIAL10,C49,Pune,Mobile
+O1168,16-12-2024,Nykaa,Plumped Serum,Sunscreen,4,809,200,FESTIVE,C47,Mumbai,Desktop
+O1169,17-12-2024,Nykaa,Satin Sunscreen,Kit,1,2488,0,NONE,C23,Chennai,Mobile
+O1170,18-12-2024,Website,Plumped Serum,Toner,4,1095,300,TRIAL10,C65,Bangalore,Mobile
+O1171,19-12-2024,Amazon,Hydra Boost,Serum,3,827,200,FESTIVE,C38,Chennai,Mobile
+O1172,20-12-2024,Website,Plumped Serum,Serum,1,740,100,NEW20,C6,Delhi,Desktop
+O1173,21-12-2024,Amazon,Daily Glow Kit,Kit,1,1128,300,TRIAL10,C59,Hyderabad,Desktop
+O1174,22-12-2024,Amazon,Daily Glow Kit,Moisturizer,1,820,300,NEW20,C38,Pune,Desktop
+O1175,23-12-2024,Website,Hydra Boost,Sunscreen,1,782,200,NEW20,C67,Chennai,Mobile
+O1176,24-12-2024,Nykaa,Hydra Boost,Serum,2,2294,100,NONE,C24,Bangalore,Desktop
+O1177,25-12-2024,Website,Daily Glow Kit,Sunscreen,1,1644,200,TRIAL10,C28,Delhi,Desktop
+O1178,26-12-2024,Nykaa,Plumped Serum,Sunscreen,4,889,200,NEW20,C57,Bangalore,Desktop
+O1179,27-12-2024,Website,Satin Sunscreen,Kit,3,1124,200,NEW20,C36,Delhi,Desktop
+O1180,28-12-2024,Nykaa,Hydra Boost,Serum,2,1583,100,TRIAL10,C28,Delhi,Desktop
+O1181,29-12-2024,Nykaa,Hydra Boost,Toner,2,1841,300,TRIAL10,C67,Hyderabad,Desktop
+O1182,30-12-2024,Website,Hydra Boost,Toner,2,1547,100,FESTIVE,C4,Delhi,Desktop
+O1183,31-12-2024,Amazon,Daily Glow Kit,Toner,2,1154,0,NONE,C60,Bangalore,Desktop
+O1184,01-01-2025,Website,Hydra Boost,Toner,4,824,0,TRIAL10,C58,Hyderabad,Desktop
+O1185,02-01-2025,Website,Plumped Serum,Sunscreen,3,2209,0,FESTIVE,C63,Delhi,Desktop
+O1186,03-01-2025,Amazon,Satin Sunscreen,Moisturizer,3,1254,100,NONE,C40,Bangalore,Mobile
+O1187,04-01-2025,Website,Glow Toner,Kit,2,1272,300,TRIAL10,C70,Delhi,Desktop
+O1188,05-01-2025,Website,Daily Glow Kit,Sunscreen,2,1344,100,NONE,C62,Hyderabad,Mobile
+O1189,06-01-2025,Amazon,Plumped Serum,Serum,4,2360,200,FESTIVE,C61,Pune,Mobile
+O1190,07-01-2025,Nykaa,Hydra Boost,Toner,4,1869,0,TRIAL10,C2,Chennai,Desktop
+O1191,08-01-2025,Amazon,Hydra Boost,Moisturizer,3,1941,300,FESTIVE,C16,Mumbai,Mobile
+O1192,09-01-2025,Amazon,Hydra Boost,Serum,4,724,200,NEW20,C14,Delhi,Desktop
+O1193,10-01-2025,Website,Daily Glow Kit,Serum,4,1695,100,NONE,C11,Pune,Mobile
+O1194,11-01-2025,Amazon,Hydra Boost,Toner,3,1906,200,NEW20,C72,Mumbai,Mobile
+O1195,12-01-2025,Website,Satin Sunscreen,Sunscreen,1,1626,300,NEW20,C11,Bangalore,Desktop
+O1196,13-01-2025,Amazon,Satin Sunscreen,Sunscreen,4,1956,100,NONE,C39,Delhi,Desktop
+O1197,14-01-2025,Amazon,Glow Toner,Toner,4,1457,200,TRIAL10,C30,Hyderabad,Desktop
+O1198,15-01-2025,Website,Satin Sunscreen,Sunscreen,2,1685,300,NEW20,C71,Bangalore,Desktop
+O1199,16-01-2025,Nykaa,Satin Sunscreen,Sunscreen,3,1473,100,NONE,C67,Bangalore,Desktop

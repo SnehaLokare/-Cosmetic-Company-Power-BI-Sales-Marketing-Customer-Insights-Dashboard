@@ -1,0 +1,81 @@
+Customer_ID,First_Purchase_Date,Gender,Age,Total_Orders,Lifetime_Value,Acquisition_Source
+C1,22-12-2024,Male,23,2,1932,Website
+C2,20-11-2024,Male,49,7,8668,Website
+C3,10-11-2024,Male,28,8,14423,Referral
+C4,09-12-2024,Female,37,2,3432,Nykaa
+C5,14-09-2024,Female,45,3,10551,Nykaa
+C6,10-10-2024,Male,47,5,4262,Instagram
+C7,06-12-2024,Female,35,7,13450,Google Ads
+C8,07-08-2024,Female,23,6,4700,Instagram
+C9,20-11-2024,Female,26,5,1067,Nykaa
+C10,18-11-2024,Female,40,4,9296,Nykaa
+C11,14-12-2024,Female,35,4,4437,Website
+C12,07-12-2024,Female,47,8,11950,Nykaa
+C13,26-12-2024,Male,26,2,4998,Website
+C14,24-12-2024,Female,49,7,10458,Referral
+C15,28-10-2024,Male,27,8,1092,Website
+C16,14-09-2024,Female,35,6,4009,Referral
+C17,21-10-2024,Female,36,2,2542,Website
+C18,04-07-2024,Female,47,4,8718,Instagram
+C19,15-11-2024,Female,24,1,10801,Website
+C20,09-10-2024,Male,19,9,4520,Website
+C21,07-12-2024,Male,22,8,3999,Website
+C22,17-11-2024,Female,44,8,8756,Instagram
+C23,04-01-2025,Female,30,9,1321,Instagram
+C24,15-11-2024,Female,23,1,8925,Google Ads
+C25,04-01-2025,Male,27,8,10641,Google Ads
+C26,07-10-2024,Male,41,4,8810,Website
+C27,13-12-2024,Female,44,1,9692,Website
+C28,17-12-2024,Male,28,9,4335,Website
+C29,24-10-2024,Female,46,9,3070,Referral
+C30,08-01-2025,Male,21,3,13991,Referral
+C31,06-01-2025,Female,42,3,1809,Website
+C32,03-09-2024,Female,48,1,1005,Nykaa
+C33,13-12-2024,Female,28,1,6402,Referral
+C34,16-10-2024,Female,44,2,5124,Instagram
+C35,05-07-2024,Female,49,9,14482,Google Ads
+C36,18-08-2024,Male,34,9,11654,Instagram
+C37,05-12-2024,Male,27,7,1894,Google Ads
+C38,16-01-2025,Female,49,6,1694,Nykaa
+C39,04-10-2024,Male,41,5,10298,Referral
+C40,30-12-2024,Male,27,6,13014,Website
+C41,16-12-2024,Male,19,7,8476,Website
+C42,16-07-2024,Male,18,3,2581,Website
+C43,17-08-2024,Female,19,1,9026,Nykaa
+C44,26-09-2024,Female,37,4,10258,Google Ads
+C45,27-10-2024,Female,27,6,10371,Website
+C46,10-09-2024,Male,47,7,3596,Website
+C47,03-10-2024,Female,31,1,5706,Website
+C48,31-12-2024,Female,18,6,14218,Google Ads
+C49,21-08-2024,Male,47,9,9766,Website
+C50,25-11-2024,Female,40,8,11464,Google Ads
+C51,30-12-2024,Female,21,8,1451,Google Ads
+C52,06-11-2024,Female,44,2,14514,Nykaa
+C53,14-01-2025,Female,29,1,5076,Referral
+C54,21-08-2024,Female,46,9,3891,Instagram
+C55,31-10-2024,Male,49,8,10235,Referral
+C56,08-12-2024,Male,31,2,12096,Website
+C57,06-08-2024,Female,35,1,7256,Instagram
+C58,18-09-2024,Female,32,7,2572,Google Ads
+C59,04-10-2024,Female,32,7,8234,Referral
+C60,23-08-2024,Female,46,3,12481,Instagram
+C61,01-09-2024,Female,37,6,10259,Nykaa
+C62,01-10-2024,Male,45,3,2413,Website
+C63,13-12-2024,Female,25,1,12551,Nykaa
+C64,12-01-2025,Female,28,3,6223,Nykaa
+C65,27-09-2024,Male,27,1,11632,Referral
+C66,02-11-2024,Male,45,2,14981,Instagram
+C67,21-08-2024,Female,47,2,8846,Instagram
+C68,29-08-2024,Female,41,7,10862,Website
+C69,24-10-2024,Female,48,7,1781,Google Ads
+C70,12-11-2024,Female,25,4,9704,Google Ads
+C71,17-07-2024,Female,18,7,6987,Google Ads
+C72,20-10-2024,Male,46,6,12755,Instagram
+C73,02-08-2024,Female,34,6,12153,Referral
+C74,13-12-2024,Male,49,9,3790,Website
+C75,12-12-2024,Male,40,7,11958,Google Ads
+C76,14-08-2024,Female,22,1,1667,Website
+C77,05-12-2024,Male,22,4,7119,Nykaa
+C78,11-10-2024,Female,41,1,1900,Google Ads
+C79,01-11-2024,Female,20,8,1744,Instagram
+C80,28-11-2024,Female,28,9,4680,Instagram
